@@ -1,0 +1,416 @@
+[
+  {
+    "aid_name": "Baker Bay West Channel Entrance Jetty Light 1",
+    "llnr": "14415",
+    "action": "STRUCT DMGD/REDUCED INT",
+    "waterway": null,
+    "mile_marker": null,
+    "bank": null,
+    "position": [46.268694, -124.030246]
+  },
+  {
+    "aid_name": "Ferry Pier Light",
+    "llnr": "19223",
+    "action": "RELIGHTED",
+    "waterway": null,
+    "mile_marker": null,
+    "bank": null,
+    "position": [48.723231, -122.512436]
+  },
+  {
+    "aid_name": "Bonneville Pool Light 14",
+    "llnr": "11820",
+    "action": "LT EXT",
+    "waterway": null,
+    "mile_marker": null,
+    "bank": null,
+    "position": [45.681968, -121.888075]
+  },
+  {
+    "aid_name": "Bonneville Pool Light 22",
+    "llnr": "11855",
+    "action": "LT EXT",
+    "waterway": null,
+    "mile_marker": null,
+    "bank": null,
+    "position": [45.698254, -121.810367]
+  },
+  {
+    "aid_name": "Camas Slough Range Front Light",
+    "llnr": "11455",
+    "action": "LT EXT/STRUCT DMGD",
+    "waterway": null,
+    "mile_marker": null,
+    "bank": null,
+    "position": [45.574205, -122.436221]
+  },
+  {
+    "aid_name": "Cap Sante Waterway Daybeacon 4",
+    "llnr": "19005",
+    "action": "STRUCT DMGD/TRUB",
+    "waterway": null,
+    "mile_marker": null,
+    "bank": null,
+    "position": [48.511875, -122.602696]
+  },
+  {
+    "aid_name": "Cap Sante Waterway Daybeacon 4",
+    "llnr": "19005",
+    "action": "TRUB",
+    "waterway": null,
+    "mile_marker": null,
+    "bank": null,
+    "position": [48.511875, -122.602696]
+  },
+  {
+    "aid_name": "Cape Horn Range Front Light",
+    "llnr": "11615",
+    "action": "DBD DMGD",
+    "waterway": null,
+    "mile_marker": null,
+    "bank": null,
+    "position": [45.567986, -122.19341]
+  },
+  {
+    "aid_name": "Cape Horn Range Rear Light",
+    "llnr": "11620",
+    "action": "DAYMK MISSING",
+    "waterway": null,
+    "mile_marker": null,
+    "bank": null,
+    "position": [45.570973, -122.185329]
+  },
+  {
+    "aid_name": "Ediz Hook Light",
+    "llnr": "16280",
+    "action": "LT EXT",
+    "waterway": null,
+    "mile_marker": null,
+    "bank": null,
+    "position": [48.140014, -123.40244]
+  },
+  {
+    "aid_name": "Grays Harbor South Reach Light 16",
+    "llnr": "15635",
+    "action": "DAYMK MISSING/STRUCT DMGD",
+    "waterway": null,
+    "mile_marker": null,
+    "bank": null,
+    "position": [46.918815, -124.083436]
+  },
+  {
+    "aid_name": "Damon Point Light",
+    "llnr": "15940",
+    "action": "DAYMK MISSING/STRUCT DMGD",
+    "waterway": null,
+    "mile_marker": null,
+    "bank": null,
+    "position": [46.950473, -124.105796]
+  },
+  {
+    "aid_name": "Lake Celilo Daybeacon 27",
+    "llnr": "12230",
+    "action": "STRUCT DMGD",
+    "waterway": null,
+    "mile_marker": null,
+    "bank": null,
+    "position": [45.662244, -120.885365]
+  },
+  {
+    "aid_name": "Lake Celilo Buoy 45",
+    "llnr": "12360",
+    "action": "MISSING",
+    "waterway": null,
+    "mile_marker": null,
+    "bank": null,
+    "position": [45.705686, -120.730724]
+  },
+  {
+    "aid_name": "Lake Umatilla Light 9",
+    "llnr": "12440",
+    "action": "LT EXT",
+    "waterway": null,
+    "mile_marker": null,
+    "bank": null,
+    "position": [45.705154, -120.502917]
+  },
+  {
+    "aid_name": "Lake Umatilla Light 50",
+    "llnr": "12645",
+    "action": "DAYMK IMCH/LT IMCH",
+    "waterway": null,
+    "mile_marker": null,
+    "bank": null,
+    "position": [45.895071, -119.626333]
+  },
+  {
+    "aid_name": "Interstate 5 Highway Bridge",
+    "llnr": "18230",
+    "action": "MAINTENANCE",
+    "waterway": "Lake Washington Ship Canal",
+    "mile_marker": "4.2",
+    "bank": null,
+    "position": [47.653056, -122.3225]
+  },
+  {
+    "aid_name": "I-405 Brickyard to 527 Improvement Project",
+    "llnr": null,
+    "action": "CONSTRUCTION",
+    "waterway": "Sammamish River",
+    "mile_marker": null,
+    "bank": null,
+    "position": [47.756667, -122.185]
+  },
+  {
+    "aid_name": "I-90 Highway Bridge (East Channel)",
+    "llnr": null,
+    "action": "CONSTRUCTION",
+    "waterway": "Lake Washington",
+    "mile_marker": null,
+    "bank": null,
+    "position": [47.578889, -122.199722]
+  },
+  {
+    "aid_name": "Fireworks display on Lake Washington",
+    "llnr": null,
+    "action": "MARINE_EVENT",
+    "waterway": "Lake Washington",
+    "mile_marker": null,
+    "bank": null,
+    "position": [47.614492, -122.2418]
+  },
+  {
+    "aid_name": "Schultz Bar Range Rear Light",
+    "llnr": "13850",
+    "action": "RELIGHTED",
+    "waterway": null,
+    "mile_marker": null,
+    "bank": null,
+    "position": [46.695077, -117.48677]
+  },
+  {
+    "aid_name": "Cypress Reef Junction Daybeacon C",
+    "llnr": "19480",
+    "action": "DAYMK MISSING",
+    "waterway": null,
+    "mile_marker": null,
+    "bank": null,
+    "position": [48.613605, -122.722541]
+  },
+  {
+    "aid_name": "Sand Island Lower Dike Light 1",
+    "llnr": "14610",
+    "action": "DAYMK MISSING/STRUCT DMGD",
+    "waterway": null,
+    "mile_marker": null,
+    "bank": null,
+    "position": [46.260569, -124.007831]
+  },
+  {
+    "aid_name": "Chinook Dike Light 7",
+    "llnr": "14625",
+    "action": "DAYMK MISSING/LT EXT",
+    "waterway": null,
+    "mile_marker": null,
+    "bank": null,
+    "position": [46.249782, -123.9534]
+  },
+  {
+    "aid_name": "Olympia Turning Basin Buoy 18",
+    "llnr": "17515",
+    "action": "RESET ON STATION",
+    "waterway": null,
+    "mile_marker": null,
+    "bank": null,
+    "position": [47.051464, -122.90743]
+  },
+  {
+    "aid_name": "Edmonds Fishing Reef Buoys (2)",
+    "llnr": "16720",
+    "action": "MISSING",
+    "waterway": null,
+    "mile_marker": null,
+    "bank": null,
+    "position": [47.811667, -122.388333]
+  },
+  {
+    "aid_name": "Non-competitive cruise between Olympia and Port Townsend",
+    "llnr": null,
+    "action": "MARINE_EVENT",
+    "waterway": "Puget Sound",
+    "mile_marker": null,
+    "bank": null,
+    "position": [null, null]
+  },
+  {
+    "aid_name": "Fireworks display in Quartermaster Harbor",
+    "llnr": null,
+    "action": "MARINE_EVENT",
+    "waterway": "Quartermaster Harbor",
+    "mile_marker": null,
+    "bank": null,
+    "position": [47.39865, -122.44959]
+  },
+  {
+    "aid_name": "NOAA Pacific Marine Environmental Laboratory research buoy",
+    "llnr": null,
+    "action": "ESTABLISHED",
+    "waterway": "Puget Sound",
+    "mile_marker": null,
+    "bank": null,
+    "position": [47.721472, -122.399]
+  },
+  {
+    "aid_name": "Rogue River North Jetty Light 3",
+    "llnr": "8660",
+    "action": "WATCHING PROPERLY",
+    "waterway": null,
+    "mile_marker": null,
+    "bank": null,
+    "position": [42.420498, -124.432991]
+  },
+  {
+    "aid_name": "Richardson Daybeacon",
+    "llnr": "19545",
+    "action": "DAYMK DMGD",
+    "waterway": null,
+    "mile_marker": null,
+    "bank": null,
+    "position": [48.446394, -122.910225]
+  },
+  {
+    "aid_name": "Twin Rocks Daybeacon",
+    "llnr": "19550",
+    "action": "STRUCT MISSING",
+    "waterway": null,
+    "mile_marker": null,
+    "bank": null,
+    "position": [48.446079, -122.912413]
+  },
+  {
+    "aid_name": "NOAA Environmental Lighted Buoy 46002",
+    "llnr": "765.1",
+    "action": "STATUS UNREPORTED",
+    "waterway": null,
+    "mile_marker": null,
+    "bank": null,
+    "position": [null, null]
+  },
+  {
+    "aid_name": "NOAA Environmental Lighted Buoy 46002",
+    "llnr": "765.1",
+    "action": "MISSING",
+    "waterway": null,
+    "mile_marker": null,
+    "bank": null,
+    "position": [null, null]
+  },
+  {
+    "aid_name": "DART Tsunami Warning Lighted Buoy 46407",
+    "llnr": "765.2",
+    "action": "MISSING",
+    "waterway": null,
+    "mile_marker": null,
+    "bank": null,
+    "position": [null, null]
+  },
+  {
+    "aid_name": "OSU Cape Arago Research Lighted Buoy",
+    "llnr": "612",
+    "action": "MISSING",
+    "waterway": null,
+    "mile_marker": null,
+    "bank": null,
+    "position": [null, null]
+  },
+  {
+    "aid_name": "West and center lights on downriver side of bridge",
+    "llnr": null,
+    "action": "EXTINGUISHED",
+    "waterway": "Snake River",
+    "mile_marker": null,
+    "bank": null,
+    "position": [46.206667, -119.03]
+  },
+  {
+    "aid_name": "East Pasco Railroad Bridge",
+    "llnr": "13112",
+    "action": "LIGHTING UPGRADED",
+    "waterway": "Snake River",
+    "mile_marker": "1.5",
+    "bank": null,
+    "position": [46.206667, -119.03]
+  },
+  {
+    "aid_name": "South Slough Shoal Buoy",
+    "llnr": "9168",
+    "action": "DISCONTINUED FOR DREDGING",
+    "waterway": null,
+    "mile_marker": null,
+    "bank": null,
+    "position": [null, null]
+  },
+  {
+    "aid_name": "South Slough Bridge",
+    "llnr": "9180",
+    "action": "TEMPORARY DEVIATION",
+    "waterway": "South Slough",
+    "mile_marker": "0.7",
+    "bank": null,
+    "position": [43.338889, -124.321111]
+  },
+  {
+    "aid_name": "Dredging outside Charleston Marina",
+    "llnr": null,
+    "action": "DREDGING",
+    "waterway": "Charleston Marina",
+    "mile_marker": null,
+    "bank": null,
+    "position": [43.349667, -124.319989]
+  },
+  {
+    "aid_name": "Tillamook Bay Approach Lighted Whistle Buoy T",
+    "llnr": "680-9810",
+    "action": "DISESTABLISHED",
+    "waterway": "Tillamook Bay",
+    "mile_marker": null,
+    "bank": null,
+    "position": [45.569056, -123.987472]
+  },
+  {
+    "aid_name": "Leeds Island Range Front Light",
+    "llnr": "9346",
+    "action": "DISCONTINUED",
+    "waterway": "Umpqua River",
+    "mile_marker": null,
+    "bank": null,
+    "position": [43.722222, -124.126944]
+  },
+  {
+    "aid_name": "Leeds Island Range Rear Light",
+    "llnr": "9347",
+    "action": "DISCONTINUED",
+    "waterway": "Umpqua River",
+    "mile_marker": null,
+    "bank": null,
+    "position": [43.719167, -124.126389]
+  },
+  {
+    "aid_name": "Leeds Island Direction Light",
+    "llnr": "9348",
+    "action": "ESTABLISHED",
+    "waterway": "Umpqua River",
+    "mile_marker": null,
+    "bank": null,
+    "position": [43.722222, -124.126944]
+  },
+  {
+    "aid_name": "Leeds Island Direction Light",
+    "llnr": "9348",
+    "action": "ESTABLISHED",
+    "waterway": "Umpqua River",
+    "mile_marker": null,
+    "bank": null,
+    "position": [43.719167, -124.126389]
+  }
+]

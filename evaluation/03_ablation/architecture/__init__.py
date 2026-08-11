@@ -1,0 +1,1 @@
+# Architecture ablation: single-agent vs multi-agent comparison across three task difficulties

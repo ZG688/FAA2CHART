@@ -1,0 +1,24 @@
+{
+  "framework_files": 11,
+  "framework_code_lines": 3629,
+  "framework_lines_changed_for_maritime": 0,
+  "profile_scaffold_lines": 16,
+  "faa_profile_lines": 91,
+  "uscg_lnm_profile_lines": 84,
+  "new_config_ratio_pct": 2.31,
+  "new_content_types": [
+    "Extraction prompts (natural language, declarative)",
+    "Content filter regex x3",
+    "Filter function (isomorphic to FAA version, only regex changed)",
+    "Profile instance declaration"
+  ],
+  "unchanged_components": [
+    "supervisor / sub-agent orchestration",
+    "job-based state management (OBJECT_STORE)",
+    "structured JSON inter-agent communication",
+    "stage pre-condition guards",
+    "MinerU document parsing pipeline",
+    "batching / JSON repair / retry logic",
+    "QGIS layer loading, spatial analysis, map layout"
+  ]
+}
