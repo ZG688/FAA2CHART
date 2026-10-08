@@ -225,6 +225,14 @@ The `evaluation/` directory contains all experimental results reported in the pa
 
 Each evaluation directory contains its own README with detailed reproduction instructions. See `evaluation/04_baseline_comparison/README.md` for the baseline comparison reproduction guide.
 
+The Tier B human-gold benchmark data is stored under `evaluation/01_extraction/data/Tier B human-gold benchmark/`:
+
+- `tierB_labels.xlsx` — 150-route dual-annotator adjudicated gold standard
+- `pdf_screenshot/` — 150 source PDF screenshots (aligned with label table rows 2–151)
+- `README_SCREENSHOTS.txt` — screenshot naming convention and correspondence with the label table
+
+The annotation protocol (inclusion criteria, annotator instructions, and inter-annotator agreement) is documented in `evaluation/01_extraction/data/annotation_protocol.md`.
+
 ## Domain Profiles
 
 The framework supports domain-specific extraction via `DomainProfile`:

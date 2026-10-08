@@ -9,8 +9,6 @@ Tier B Screenshot File Documentation
    - Renamed screenshot format: {index}_pdf_screenshot_{airway_code}.png
      Example: 01_pdf_screenshot_G575.png
               61_pdf_screenshot_A332.png
-   - Unrenamed screenshot format: {UUID}.png (located in pdf_screenshot_2/ directory)
-     Example: 005ca2a6-ff25-47e0-9c0c-f9fea92a6c13.png
 
 3. Correspondence with the Registration Table
    - The screenshot files are sequentially aligned with the airway records in the registration table (tierB_labels.xlsx) in chronological order.

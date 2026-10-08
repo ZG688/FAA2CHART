@@ -27,4 +27,4 @@ To enable a rigorous evaluation of extraction quality, we design a **two‑tier 
   - **86 records** were in complete agreement.
   - **50 records** showed only tokenisation or character differences – these were normalised to a canonical form.
   - **14 records** contained substantive content disagreements – these were adjudicated jointly by the two annotators against the original PDF screenshots to produce the final gold standard.
-- All 150 sample records are accompanied by source document screenshots for verification.
+- All 150 sample records are accompanied by source document screenshots (see `Tier B human-gold benchmark/pdf_screenshot/`) for verification.

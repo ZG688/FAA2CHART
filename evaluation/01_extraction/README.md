@@ -55,7 +55,8 @@ python tierB_evaluate_all.py
 
 | File | Description |
 |------|-------------|
-| `data/tierB_labels.xlsx` | 150-route manual annotation table (columns 8-10: annotator1, annotator2, cross-page flag) |
+| `data/Tier B human-gold benchmark/tierB_labels.xlsx` | 150-route manual annotation table (columns 8-10: annotator1, annotator2, cross-page flag) |
+| `data/Tier B human-gold benchmark/pdf_screenshot/` | 150 source PDF screenshots (aligned with label table rows 2–151) |
 | Prediction JSON files | From `FAA2CHART_DATA_ROOT/airway_data/text/` (or `FAA2CHART_PRED_DIR` env var) |
 
 ### Output
