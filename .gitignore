@@ -53,6 +53,9 @@ build/
 *.bmp
 *.gif
 
+# Exception: Tier B human-gold benchmark screenshots are tracked intentionally
+!evaluation/01_extraction/data/Tier B human-gold benchmark/pdf_screenshot/*.png
+
 # ============================================================
 # Evaluation outputs (generated at runtime)
 # ============================================================
