@@ -4,7 +4,7 @@ A human-in-the-loop review mechanism for the FAA2CHART multi-agent framework, ad
 
 ## Key idea
 
-Review the **result of the previous step**, not just approve the next action. After each sub-agent completes, its output is surfaced to the user, who can **approve**, **reject**, or **edit** before the pipeline proceeds.
+Review the **result of the previous step**, not just approve the next action. After each sub-agent completes, its output is surfaced to the user for review. At each review point, an LLM generates a focused review question together with selectable options (mapped to **approve** / **reject** / **edit**), so the user decides from context-specific choices rather than a fixed set of buttons.
 
 ## How it works
 
@@ -25,7 +25,7 @@ from domap.connectivity.hitl import run_pipeline_with_hitl
 
 # Review only the geocoding stage (QGIS will use a Qt pop-up by default)
 run_pipeline_with_hitl(
-    user_request="解析航报并生成加州航路连通图",
+    user_request="Parse the given document and generate a California airway connectivity map",
     review_subagents={"geocode"},
     db_path="checkpoints.sqlite",   # optional: persistent SqliteSaver
 )
@@ -35,11 +35,11 @@ Three review front-ends are provided:
 
 | Front-end | Notes |
 |-----------|-------|
-| `QtDialogReviewer` | QGIS pop-up with **批准 / 反馈输入 / 驳回** buttons (default inside QGIS) |
+| `QtDialogReviewer` | QGIS pop-up presenting an LLM-generated review question and selectable options (Approve / Edit / Reject) — default inside QGIS |
 | `FileReviewQueue` | File-based queue (`pending_request.json` → `decision.json`), suitable for scripts or an external MCP client |
 | `console_reviewer` | Interactive `input()` (real terminal only) |
 
-Decision types: `approve` (proceed), `reject` (ask the model to redo), `edit` (apply a natural-language correction, e.g. "把 ABERDEEN 改回 GRAND ISLAND，坐标改成 40.96, -98.32").
+Decision types: `approve` (proceed), `reject` (ask the model to redo), `edit` (apply a natural-language correction, e.g. "Change ABERDEEN back to GRAND ISLAND, coordinates 40.96, -98.32").
 
 ## Validation cases
 
